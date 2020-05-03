@@ -1,5 +1,0 @@
-[dotnet new](https://docs.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
-[dotnet console](https://docs.microsoft.com/ja-jp/dotnet/core/tutorials/cli-create-console-app)
-
-dotnet new console –n "Hello" -o directory -lang "C#"
-dotnet run --project Hello
